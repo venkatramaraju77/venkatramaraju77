@@ -1,8 +1,8 @@
 ### Hi There 👋
 
-I'm a Storage Administrator working on DellEMC Storage Products. I have had a chance to work with talented professsionals on a number of Infrastructure projects. I have a wide reange of skills that include administration of SAN swithches (Cisco & Brocade), Block storage (DMX, VMAX & PowerMax) and File storage (Isilon & UNITY). I have been working as a SME on DellEMC Isilon product for one+ year for now.
+Currently, I am working for DellEMC as a Principal Engineer, Service Delivery.
 
-I have good experience as UNIX Administrator - Solaris, HP-UX and Linux and I am good at Shell scripting as well.
+Having 19+ years of experience in various information technology areas that include administration of SAN swithches (Cisco & Brocade), Block storage (DMX, VMAX & PowerMax), File storage (Isilon & UNITY) and UNIX Systems. Extensively worked on Data migrations using different Tools -- host-based, storage technologies & DobiMinor. With over 15 years of extensive professional hands on experience in Storage administration with Design, Implementation and Support for various clients in IT. I bring in-depth knowledge of working on world leading Storage Hardware and software. I have been working as a SME on DellEMC Isilon product for 1+ year for now.
 
 Since I am interested in Software development and Coding, I am currently learning UI technologies (HTML|CSS|JavaScript).
 
