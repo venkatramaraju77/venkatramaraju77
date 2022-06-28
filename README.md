@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-I'm a Storage Administrator working on DellEMC Storage Products. I have had a chance to work with talented professsionals on a number of Infrastructure projects. I have a wide reange of skills that include administration of SAN swithches (Cisco & Brocade), Block storage (DMX, VMAX & PowerMax) and File storage (Isilon & UNITY). I have been working as a SME on DellEMC Isilon product for one+ hear.
+I'm a Storage Administrator working on DellEMC Storage Products. I have had a chance to work with talented professsionals on a number of Infrastructure projects. I have a wide reange of skills that include administration of SAN swithches (Cisco & Brocade), Block storage (DMX, VMAX & PowerMax) and File storage (Isilon & UNITY). I have been working as a SME on DellEMC Isilon product for one+ year for now.
 
 I have good experience as UNIX Administrator - Solaris, HP-UX and Linux and I am good at Shell scripting as well.
 
@@ -27,8 +27,6 @@ Skillset:
 ![](https://activity-graph.herokuapp.com/graph?username=venkatramaraju77&theme=react-dark&area=true)
 
 <!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
