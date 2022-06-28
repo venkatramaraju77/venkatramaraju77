@@ -6,6 +6,14 @@ Having 19+ years of experience in various information technology areas that incl
 
 Since I am interested in Software development and Coding, I am currently learning UI technologies (HTML|CSS|JavaScript).
 
+Skillset: 
+
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> <br>
+<img alt="Cicso Fabrics" src="https://img.shields.io/badge/Cicso Fabrics-%23563D7C.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> 
+<img alt="DMX, VMAX & PowerMax" src="https://img.shields.io/badge/DMX, VMAX & PowerMax-%23E34F26.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> 
+<img alt="UNITY" src="https://img.shields.io/badge/UNITY-%231572B6.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> 
+<img alt="Isilon" src="https://img.shields.io/badge/Isilon-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> 
+
 ![Visitor Count](https://profile-counter.glitch.me/venkatramaraju77/count.svg)
 
 <div>
@@ -16,13 +24,6 @@ Since I am interested in Software development and Coding, I am currently learnin
 </div>
 
 <br>
-Skillset: 
-
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> <br>
-<img alt="Cicso Fabrics" src="https://img.shields.io/badge/Cicso Fabrics-%23563D7C.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> 
-<img alt="DMX, VMAX & PowerMax" src="https://img.shields.io/badge/DMX, VMAX & PowerMax-%23E34F26.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> 
-<img alt="UNITY" src="https://img.shields.io/badge/UNITY-%231572B6.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> 
-<img alt="Isilon" src="https://img.shields.io/badge/Isilon-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/> 
 
 ![](https://activity-graph.herokuapp.com/graph?username=venkatramaraju77&theme=react-dark&area=true)
 
